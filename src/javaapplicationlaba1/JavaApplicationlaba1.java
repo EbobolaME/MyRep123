@@ -17,7 +17,7 @@ public class JavaApplicationlaba1 {
     public static void main(String[] args) {
         System.out.println("Hello world");
          System.out.println("hadigfighff");
-         system.out.println("nigg... ginger")
+         System.out.println("nigg ginger");
         
         
        
