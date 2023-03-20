@@ -18,7 +18,8 @@ public class JavaApplicationlaba1 {
         System.out.println("Hello world");
          System.out.println("hadigfighff");
          System.out.println("nigg ginger");
-        
+        System.out.println("ginger223");
+        System.out.println("ginger2233");
         
        
             
