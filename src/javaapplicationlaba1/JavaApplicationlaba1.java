@@ -21,7 +21,7 @@ public class JavaApplicationlaba1 {
         System.out.println("ginger223");
         System.out.println("ginger2233");
         System.out.println("12344124124");
-        System.out.println("ging223");
+        System.out.println("NEWMAN");
        
             
                 
