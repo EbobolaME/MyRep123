@@ -23,7 +23,7 @@ public class JavaApplicationlaba1 {
         System.out.println("12344124124");
         System.out.println("ging223");
         System.out.println("forPartner1");
-        
+        System.out.println("changes by partner");
         
        
             
